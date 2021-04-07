@@ -14,8 +14,8 @@ import pandas as pd
 
 # User input for setting date column and key column
 date_col_input = '日付'
-key_col_input = '商品グループ'
-target_col_input = '合計 / 補正販売数量'
+key_col_input = 'グループ'
+target_col_input = '数量'
 # User input for date interval specification: Day = 'D', Week = 'W', Begining of Month = 'MS'
 date_interval ='D'
 
