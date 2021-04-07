@@ -13,9 +13,9 @@ import numpy as np
 import pandas as pd
 
 # User input for setting date column and key column
-date_col_input = '日付'
-key_col_input = 'グループ'
-target_col_input = '数量'
+date_col_input = 'Date'
+key_col_input = 'Item'
+target_col_input = 'Counts'
 # User input for date interval specification: Day = 'D', Week = 'W', Begining of Month = 'MS'
 date_interval ='D'
 
